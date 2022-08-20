@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 音楽鑑賞、ギター、DIY、ドライブ、ラーメン
 - 🌱 I’m currently learning ... Java,Swift
 - 💞️ I’m looking to collaborate on ... ???
-- 📫 How to reach me ... twitter account: @goldenCat1990
+- 📫 How to reach me ... twitter account: https://twitter.com/goldenCat1990
 
 <!---
 jun01t/jun01t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
