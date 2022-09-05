@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jun01t
 - 👀 I’m interested in ... 音楽鑑賞、ギター、DIY、ドライブ、ラーメン etc...
 - 🌱 I’m currently learning ... Java、Swift、Go、React
-- 💞️ I’m looking to collaborate on ... ???
+- 💞️ I’m looking to collaborate on ... I’ll consider it.
 - 📫 How to reach me ... 
 
 <!---
