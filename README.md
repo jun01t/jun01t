@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jun01t.I doing Web Developer.
-- 👀 I’m interested in ... web3.0、dapps、SaaS、devops
+- 👀 I’m interested in ... AI、Web Develop、DevOps、Music
 - 🌱 I’m currently learning ... Ruby、Nuxt.js、Vue.js etc...
 - 💞️ I’m looking to collaborate on ... ???
 - 📫 How to reach me ... 
